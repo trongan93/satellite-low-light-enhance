@@ -1,0 +1,4 @@
+/snap/clion/218/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/218/bin/ninja/linux/ninja -G Ninja -S /home/trongan93/Projects/github/satellite-low-light-enhance/Inference -B /home/trongan93/Projects/github/satellite-low-light-enhance/Inference/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/trongan93/Projects/github/satellite-low-light-enhance/Inference/cmake-build-debug
